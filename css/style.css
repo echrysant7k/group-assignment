@@ -1,0 +1,50 @@
+@charset "UTF-8";
+*{
+	padding:0;
+	margin:0;
+	font-family: 'Arimo';
+}
+
+body {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../images/got78.jpg");
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	text-align: center;
+	background-color: lightseagreen;
+}
+#forestgreen{
+	background-color: forestgreen;
+	text-align: center;
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+#green{
+	background-color: green;
+	text-align: center;
+	color: white;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+#darkgreen{
+	background-color: darkgreen;
+	text-align: center;
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+h2{
+	text-align: center;
+	background-color: palegreen;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+p{
+	color:aliceblue;
+}
+h3{
+	text-align: center;
+	background-color: aquamarine;
+}
+
+.center {
+	text-align: center;
+}
