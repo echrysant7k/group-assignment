@@ -12,7 +12,7 @@ body {
 }
 h1{
 	text-align: center;
-	background-color: lightseagreen;
+	
 }
 #forestgreen{
 	background-color: forestgreen;
@@ -38,13 +38,45 @@ h2{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 p{
-	color:aliceblue;
+	color:black;
 }
 h3{
 	text-align: center;
 	background-color: aquamarine;
 }
 
+
 .center {
 	text-align: center;
+}
+
+.cardtitle {
+	margin-left: 330px;
+	margin-right: 300px;
+	margin-top: 60px;
+	text-align: center;
+	text-color: yellow;
+	font-size: 60px;
+	font-style: oblique;
+}
+.h6{
+	text-color: yellow;
+}
+
+
+.card-group{
+	margin-top: 70px;
+}
+
+.card-text{
+	text-color: black;
+}
+
+.card-group{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.banners{
+	background-color:#FFFC3B;
 }
