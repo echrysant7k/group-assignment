@@ -12,8 +12,20 @@ body {
 }
 h1{
 	text-align: center;
+	color: white;
+	font-size: 50px;
+	
+	
+	
 	
 }
+h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    border: thick solid red
+}
+
 #forestgreen{
 	background-color: forestgreen;
 	text-align: center;
@@ -32,11 +44,8 @@ h1{
 	color: white;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 }
-h2{
-	text-align: center;
-	background-color: palegreen;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-}
+
+
 p{
 	color:black;
 }
@@ -78,5 +87,9 @@ h3{
 }
 
 .banners{
-	background-color:#FFFC3B;
+    background-color: #FF0000;
 }
+
+.stressreliever{ 
+	text-color: white;
+	}
