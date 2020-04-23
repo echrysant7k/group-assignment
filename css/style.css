@@ -10,12 +10,14 @@ body {
 	background-size: cover;
 	background-position: center;
 }
-header h1 {
-    text-align: center;
-    color: red;
-    font-family: Verdana;
-    font-size: 70px;
-    margin: 50px;
+h1{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	
+	
+	
+	
 }
 h2{
     color: white;
@@ -108,10 +110,10 @@ h5{
 	text-color: white;
 	}
 
-h1 {
+header h1 {
 	text-align: center;
 	color: red;
-	font-family: Impact;
+	font-family: Verdana;
 	font-size: 70px;
 	margin: 50px;
 }
@@ -120,35 +122,28 @@ body {
 	background-color: #000000;
 }
 
-#cc {
-	width: 80%;
-}
-
-#left-container {
-	margin-left: 20%;
-	background-color: #696969;
-	width: 40%;
+main .row .col {
 	height: 800px;
-	float: left;	
-	display: inline-block;
 }
 
-#left-container section {
+main .row .col section {
 	color: white;
 	margin: 20px;
-	text-align: center;
-	padding-top: 150px;
+	text-align: left;
+	padding-top: 25px;
 	padding-right: 20px;
 	padding-left: 20px;
 }
 
-#left-container section h4 {
-	font-size: 30px;
-	font-style: bold;
+main .row {
+		width: 60%;
+		background-color: gray;
+		margin: 0 auto;
 }
 
-#right-container {
-	float: right;
-	width: 40%;
-	height: 800px;
+main .row .col section h4 {
+    color: white;
+    font-size: 20px;
 }
+
+
