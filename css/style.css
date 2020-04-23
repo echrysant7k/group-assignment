@@ -10,57 +10,50 @@ body {
 	background-size: cover;
 	background-position: center;
 }
-
-h2{
-    color: white;
-    text-align: center;
-    font-size: 60px;
-    border: thick solid red;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-}
-
-h6{
-		color:yellow;
-	    text-align: center;
-		font-size: 40px;
-	    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
-}
-
-h5{
+h1{
 	text-align: center;
-	font-size: 25px
-}
-
-h7{
 	color:white;
-	text-align: center;
 	
 }
 
-h8{color:white;
+#forestgreen{
+	background-color: forestgreen;
 	text-align: center;
-	font-size: 40px;
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 }
-
-h9{color:yellow;
+#green{
+	background-color: green;
 	text-align: center;
-	font-size: 20px;
+	color: white;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 }
-
+#darkgreen{
+	background-color: darkgreen;
+	text-align: center;
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+h2{
+	text-align: center;
+	background-color: palegreen;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
 p{
 	color:black;
-	text-align: center;
-	font-size: 18px;
 }
+h3{
+	text-align: center;
+	background-color: aquamarine;
+}
+
 
 .center {
 	text-align: center;
 }
 
 .cardtitle {
-	margin-left: 330px;
-	margin-right: 300px;
-	margin-top: 60px;
+	margin-top: 40px;
 	text-align: center;
 	text-color: yellow;
 	font-size: 60px;
@@ -84,10 +77,27 @@ p{
 	margin-right: 40px;
 }
 
-.banners2{
-    background-color: #FF0000;
+.banners{
+	background-color:#FFFC3B;
 }
 
-.stressreliever{ 
-	text-color: white;
+.titlesjust{
+	margin-top: 20px;
+	font-size: 25px;
+	text-align: center;
+}
+
+.textjust{
+	text-align: center;
+	font-size: 14px;
+}
+
+.textjustcur{
+	text-align: center;
+	font-size: 14px;
+	font-style: oblique;
+}
+
+.banners2{
+	background-color:#FF0004;
 }
