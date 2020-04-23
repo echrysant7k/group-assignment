@@ -10,20 +10,32 @@ body {
 	background-size: cover;
 	background-position: center;
 }
-h1{
-	text-align: center;
-	color: white;
-	font-size: 50px;
+
+
+
 	
 	
 	
-	
-}
+
 h2{
     color: white;
     text-align: center;
-    font-size: 50px;
-    border: thick solid red
+    font-size: 60px;
+    border: thick solid red;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	
+	
+}
+
+h6{
+		color:yellow;
+	    text-align: center;
+		font-size: 40px;
+	    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	}
+h5{
+	text-align: center;
+	font-size: 20px
 }
 
 #forestgreen{
@@ -48,6 +60,8 @@ h2{
 
 p{
 	color:black;
+	text-align: center;
+	font-size: 18px;
 }
 h3{
 	text-align: center;
