@@ -13,7 +13,10 @@ body {
 h1{
 	text-align: center;
 	color:white;
+}
 	
+#h1About {
+	color:red;
 }
 
 #forestgreen{
@@ -40,7 +43,8 @@ h2{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 p{
-	color:black;
+	color:white;
+	font-size:16px;
 }
 h3{
 	text-align: center;
@@ -82,9 +86,11 @@ h3{
 }
 
 h4 {
-	text-align: center;
+	text-align: left;
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
 	color: azure;
+	font-size: 35px
+	
 }
 	
 h5{
@@ -102,10 +108,10 @@ h5{
 	text-align: center;
 }
 
-.textjust{
-	text-align: center;
-	font-size: 14px;
-}
+.stressreliever{ 
+	text-color: white;
+        text-align: left;
+	}
 
 header h1 {
 	text-align: center;
@@ -127,14 +133,14 @@ main .row .col section {
 	color: white;
 	margin: 20px;
 	text-align: left;
-	padding-top: 25px;
+	padding-top: 50px;
 	padding-right: 20px;
 	padding-left: 20px;
 }
 
 main .row {
-		width: 60%;
-		background-color: gray;
+		width: 70%;
+		background-color: #282828;
 		margin: 0 auto;
 }
 
@@ -148,7 +154,6 @@ main .row .col section h4 {
 	font-size: 25px;
 	text-align: center;
 }
-
 .textjust{
 	text-align: center;
 	font-size: 14px;
