@@ -1,6 +1,15 @@
-@charset "UTF-8";
+@charset "UTF-8"; 
 
+p{
+	color:black;
+    text-align: center;
+	font-size: 18px;
+}
 
+h1{
+	text-align: center;
+	color:white;
+}
 
 h2{
     color: white;
@@ -10,67 +19,33 @@ h2{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 
-h6{
-		color:yellow;
-	    text-align: center;
-		font-size: 40px;
-	    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+h3{
+	color:white;
+	font-size:16px;
 }
-
 h5{
 	text-align: center;
-	font-size: 25px
+	font-size: 25px;
 }
 
+
+h6{
+	text-align: center;
+	color: yellow;
+	font-size: 45px;
+}
 h7{
 	color:white;
-	text-align: center;
-	
 }
 
-h8{color:white;
-	text-align: center;
-	font-size: 40px;
+h8{
+	color: white;
 }
 
-h9{color:yellow;
-	text-align: center;
-	font-size: 20px;
-}
-
-p{
+h9{
 	color:black;
-    text-align: center;
-
-}
-
-h1{ color: white;
-	text-align: center;
-	
-	
-}
-h3{
-
-	text-align: center;
-	font-size: 18px;
-}
-
-.center {
-	text-align: center;
-}
-
-.cardtitle {
-	margin-top: 40px;
-	text-align: center;
-	text-color: yellow;
-	font-size: 60px;
-	font-style: oblique;
-}
-h6{
-	text-color: yellow;
 }
 
 .banners2{
-	background-color: red;
+	background-color:red;
 }
-
