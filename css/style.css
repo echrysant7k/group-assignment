@@ -10,10 +10,6 @@ h1{
 	text-align: center;
 	color:white;
 }
-	
-#h1About {
-	color:red;
-}
 
 h2{
     color: white;
@@ -22,7 +18,6 @@ h2{
     border: thick solid red;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
- 
 p{
 	color:white;
 	font-size:16px;
@@ -72,29 +67,27 @@ h7{
         text-align: left;
 	}
 
-header h1 {
+
+h3{
+	color:white;
+	font-size:16px;
+}
+h5{
 	text-align: center;
-	color: red;
-	font-family: Verdana;
-	font-size: 70px;
-	margin: 50px;
+	font-size: 25px;
 }
 
-body {
-	background-color: #000000;
+h6{
+	text-align: center;
+	color: yellow;
+	font-size: 45px;
+}
+h7{
+	color:white;
 }
 
-main .row .col {
-	height: 800px;
-}
-
-main .row .col section {
+h8{
 	color: white;
-	margin: 20px;
-	text-align: left;
-	padding-top: 50px;
-	padding-right: 20px;
-	padding-left: 20px;
 }
 
 main .row {
@@ -128,3 +121,4 @@ h9{
 .banners2{
 	background-color:red;
 } 
+
