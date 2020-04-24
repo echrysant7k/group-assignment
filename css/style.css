@@ -1,15 +1,11 @@
-@charset "UTF-8";
-*{
-	padding:0;
-	margin:0;
-	font-family: 'Arimo';
+@charset "UTF-8"; 
+
+p{
+	color:black;
+    text-align: center;
+	font-size: 18px;
 }
 
-body {
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../images/got78.jpg");
-	background-size: cover;
-	background-position: center;
-}
 h1{
 	text-align: center;
 	color:white;
@@ -19,94 +15,57 @@ h1{
 	color:red;
 }
 
-#forestgreen{
-	background-color: forestgreen;
-	text-align: center;
-	color: white;
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-}
-#green{
-	background-color: green;
-	text-align: center;
-	color: white;
-	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-}
-#darkgreen{
-	background-color: darkgreen;
-	text-align: center;
-	color: white;
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-}
 h2{
-	text-align: center;
-	background-color: palegreen;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    border: thick solid red;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
+ 
 p{
 	color:white;
 	font-size:16px;
 }
+
 h3{
 	text-align: center;
 	background-color: aquamarine;
+	color:white;
+	font-size:16px;
 }
 
-
-.center {
+h5{
 	text-align: center;
-}
-
-.cardtitle {
-	margin-top: 40px;
-	text-align: center;
-	text-color: yellow;
-	font-size: 60px;
-	font-style: oblique;
-}
-.h6{
-	text-color: yellow;
-}
-
-
-.card-group{
-	margin-top: 70px;
-}
-
-.card-text{
-	text-color: black;
-}
-
-.card-group{
-	margin-left: 40px;
-	margin-right: 40px;
-}
-
-.banners{
-	background-color:#FFFC3B;
+	font-size: 25px;
 }
 
 h4 {
 	text-align: left;
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
 	color: azure;
-	font-size: 35px
-	
-}
-	
-h5{
-	color: aliceblue;
-	font-size: 13;
-	text-align: center;
+	font-size: 35px	
 }
 
 .banners2{
     background-color: #FF0000;
 }
+
 .titlesjust{
 	margin-top: 20px;
 	font-size: 25px;
-	text-align: center;
 }
+
+h6{
+	text-align: center;
+	color: yellow;
+	font-size: 45px;
+}
+	
+h7{
+	color:white;
+}
+
 
 .stressreliever{ 
 	text-color: white;
@@ -158,13 +117,14 @@ main .row .col section h4 {
 	text-align: center;
 	font-size: 14px;
 }
+h8{
+	color: white;
+}
 
-.textjustcur{
-	text-align: center;
-	font-size: 14px;
-	font-style: oblique;
+h9{
+	color:black;
 }
 
 .banners2{
-	background-color:#FF0004;
-}
+	background-color:red;
+} 
