@@ -1,15 +1,6 @@
 @charset "UTF-8";
-*{
-	padding:0;
-	margin:0;
-	font-family: 'Arimo';
-}
 
-body {
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../images/got78.jpg");
-	background-size: cover;
-	background-position: center;
-}
+
 
 h2{
     color: white;
@@ -49,6 +40,17 @@ h9{color:yellow;
 
 p{
 	color:black;
+    text-align: center;
+
+}
+
+h1{ color: white;
+	text-align: center;
+	
+	
+}
+h3{
+
 	text-align: center;
 	font-size: 18px;
 }
@@ -64,101 +66,11 @@ p{
 	font-size: 60px;
 	font-style: oblique;
 }
-.h6{
+h6{
 	text-color: yellow;
 }
 
-
-.card-group{
-	margin-top: 70px;
-}
-
-.card-text{
-	text-color: black;
-}
-
-.card-group{
-	margin-left: 40px;
-	margin-right: 40px;
-}
-
-.banners{
-	background-color:#FFFC3B;
-}
-
-h4 {
-	text-align: center;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
-	color: azure;
-}
-	
-h5{
-	color: aliceblue;
-	font-size: 13;
-	text-align: center;
-}
-
 .banners2{
-    background-color: #FF0000;
+	background-color: red;
 }
 
-.stressreliever{ 
-	text-color: white;
-}
-
-header h1 {
-	text-align: center;
-	color: red;
-	font-family: Verdana;
-	font-size: 70px;
-	margin: 50px;
-}
-
-body {
-	background-color: #000000;
-}
-
-main .row .col {
-	height: 800px;
-}
-
-main .row .col section {
-	color: white;
-	margin: 20px;
-	text-align: left;
-	padding-top: 25px;
-	padding-right: 20px;
-	padding-left: 20px;
-}
-
-main .row {
-		width: 60%;
-		background-color: gray;
-		margin: 0 auto;
-}
-
-main .row .col section h4 {
-    color: white;
-    font-size: 20px;
-}
- 
-.titlesjust{
-	margin-top: 20px;
-	font-size: 25px;
-	text-align: center;
-}
-
-.textjust{
-	text-align: center;
-	font-size: 14px;
-}
-
-.textjustcur{
-	text-align: center;
-	font-size: 14px;
-	font-style: oblique;
-}
-
-.banners2{
-	background-color:#FF0004;
-}
