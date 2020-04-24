@@ -34,11 +34,6 @@ h3{
 	font-size:16px;
 }
 
-h5{
-	text-align: center;
-	font-size: 25px;
-}
-
 h4 {
 	text-align: left;
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
@@ -72,22 +67,10 @@ h7{
 	}
 
 
-h3{
-	color:white;
-	font-size:16px;
-}
 h5{
 	text-align: center;
-	font-size: 25px;
-}
-
-h6{
-	text-align: center;
-	color: yellow;
-	font-size: 45px;
-}
-h7{
-	color:white;
+	font-size: 20px;
+	color: azure;
 }
 
 h8{
@@ -114,9 +97,7 @@ main .row .col section h4 {
 	text-align: center;
 	font-size: 14px;
 }
-h8{
-	color: white;
-}
+
 
 h9{
 	color:black;
